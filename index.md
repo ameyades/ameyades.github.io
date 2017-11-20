@@ -7,7 +7,7 @@ Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from 
 ### Email:
 #### <ameyades94@gmail.com>
 ### Github:
-##### <github.com/ameyades>
+##### github.com/ameyades
 
 
 # EXPERIENCE		
