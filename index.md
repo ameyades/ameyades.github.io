@@ -33,9 +33,11 @@ Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from 
 ###	CSCI 401: Design and Construction of Large Software Systems
 - Used C, Linux, and Raspberry Pi hardware to intercept and decode UDP and TCP packets sent from DJI Phantom drones to their controllers
 - Awarded Honorable Mention from the National Academies of Science, Engineering, and Medicine for the 2016 University Design Competition for Addressing Airport Needs
+
 ###	CSCI 350: Intro to Operating Systems
 - Built essential functionality, including threading, syscalls, and virtual memory into the NachOS operating system in C and C++
 - Implemented a distributed operating system with NachOS that can run on up to 5 different machines at once, enabling applications to use multiple machine resources
+
 ###	CSCI 445: Robotics
 - Used a Raspberry Pi, two servo motors, a sonar set, and a digital camera to create an autonomous, self-driving robot 
 - OpenCV was used to distinguish objects based on color and shape
