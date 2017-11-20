@@ -4,9 +4,9 @@ Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from 
 
 # CONTACT INFORMATION
 
-### [Email] (ameyades94@gmail.com)
-### [Github] (https://github.com/ameyades)
-### [LinkedIn] (https://www.linkedin.com/in/ameya-deshpande-91163260/)
+### [Email]  (ameyades94@gmail.com)
+### [Github]  (https://github.com/ameyades)
+### [LinkedIn]  (https://www.linkedin.com/in/ameya-deshpande-91163260/)
 
 
 
