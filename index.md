@@ -1,3 +1,12 @@
+# INTRODUCTION
+
+Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from the University of Southern California, and have prior experience as an embedded software engineer at Siemens Healthineers. I'm looking for a new role, preferably at a startup, where I can grow and make a big impact. 
+
+# CONTACT INFORMATION
+
+### Email:
+#### ameyades94@gmail.com
+
 # EXPERIENCE		
 
 ## SOFTWARE ENGINEER 1, SIEMENS HEALTHINEERS
