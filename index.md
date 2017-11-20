@@ -6,6 +6,9 @@ Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from 
 
 ### Email:
 #### <ameyades94@gmail.com>
+### Github:
+##### <github.com/ameyades>
+
 
 # EXPERIENCE		
 
@@ -15,6 +18,7 @@ Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from 
 - Collaborated with other engineers to create a reusable embedded software architecture in C++ that will be used for the next 20+ years on Siemens products   
 - Designed and programmed a process within the architecture that enables biomedical engineers to use the aforementioned framework to create procedures and define responses to real-time events in the  blood-gas machine
 - Wrote unit tests for the embedded system using internal unit test tools
+
 ## ENGINEERING INTERN, VETTER SOFTWARE
 ### June 2015 – August 2015
 - Created data pipelining software that streams data from veterinary lab equipment to cloud-based practice management software with Java and Bash Scripting
@@ -23,7 +27,8 @@ Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from 
 
 # EDUCATION		
 
-## USC VITERBI SCHOOL OF ENGINEERING – B.S. COMPUTER SCIENCE – CLASS OF 2016
+## USC VITERBI SCHOOL OF ENGINEERING 
+### B.S. COMPUTER SCIENCE, CLASS OF 2016
 ## RELEVANT COURSEWORK:
 ###	CSCI 401: Design and Construction of Large Software Systems
 - Used C, Linux, and Raspberry Pi hardware to intercept and decode UDP and TCP packets sent from DJI Phantom drones to their controllers
