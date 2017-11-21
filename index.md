@@ -26,7 +26,10 @@ Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from 
 - Software deployed to 400+ veterinary clinics around the United States
 
 ## GROWTH & MARKETING INTERN, VETTER SOFTWARE
-
+### June 2014 - August 2014
+- Conducted a marketing campaign for a startup that created veterinary practice management software
+- Increased awareness and generated leads for the sales team by conducting cold calls and advertising
+- Created a blog to introduce dialog and discussion and keep our customer community engaged
 
 
 
@@ -47,7 +50,7 @@ Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from 
 - Used a Raspberry Pi, two servo motors, a sonar set, and a digital camera to create an autonomous, self-driving robot 
 - OpenCV was used to distinguish objects based on color and shape
 - Sonars on the robot were used to create a PID controller using C++ 
-- Find at: https://github.com/ameyades/OpenCVRobot
+- Find at: <https://github.com/ameyades/OpenCVRobot>
 
 
 
