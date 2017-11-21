@@ -4,7 +4,7 @@ Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from 
 
 # CONTACT INFORMATION
 
-- [Email](ameyades94@gmail.com)
+- [Email](mailto:ameyades94@gmail.com)
 - [Github](https://github.com/ameyades)
 - [LinkedIn](https://www.linkedin.com/in/ameya-deshpande-91163260/)
 
@@ -24,6 +24,11 @@ Hello, my name is Ameya Deshpande! I hold a bachelor's of Computer Science from 
 - Created data pipelining software that streams data from veterinary lab equipment to cloud-based practice management software with Java and Bash Scripting
 - Used built-in Java Swing to create a GUI for the software
 - Software deployed to 400+ veterinary clinics around the United States
+
+## GROWTH & MARKETING INTERN, VETTER SOFTWARE
+
+
+
 
 # EDUCATION		
 
